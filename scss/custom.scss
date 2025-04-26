@@ -1,5 +1,5 @@
 
-@import "node_modules/bootstrap/scss/functions";
+@import "c:/Users/usuario/Documents/Bootstrap 5/bootstrap-5.0.2/bootstrap-5.0.2/scss/_functions.scss";
 // Importa las variables de Bootstrap (opcional)
 
 // Aquí puedes sobrescribir las variables de Bootstrap antes de la importación principal
@@ -8,7 +8,7 @@ $secondary: #6c757d; // Cambia el color secundario
 $font-family-base: "Arial", sans-serif; // Cambia la fuente base
 
 // Importa Bootstrap completo
-@import "node_modules/bootstrap/scss/bootstrap.scss";
+@import "c:/Users/usuario/Documents/Bootstrap 5/bootstrap-5.0.2/bootstrap-5.0.2/scss/bootstrap.scss";
 
 // O puedes importar solo los módulos que necesites
 // @import "~bootstrap/scss/bootstrap-grid";
